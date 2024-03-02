@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'Jugs'
+
+instance = Jugs::Response.new
+instance.call
